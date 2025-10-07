@@ -7,5 +7,3 @@
 
 This dissertation explores **perspectivism** as a philosophical framework and applies its insights to modern **AI ethics**, focusing on **algorithmic bias**, **multi-perspectival evaluation models**, and **technology governance**. It bridges philosophy, cognitive science, and data ethics to propose practical frameworks for **fairness auditing**, **policy design**, and **stakeholder-inclusive AI systems**.
 
-📄 **[Download Full Dissertation (PDF)](./Sagar_Tripathi_Dissertation_Perspectivism_2025.pdf)**
-
